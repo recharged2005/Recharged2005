@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Me llamo Edil Aparicio, actualmente estoy cursando grado 11 en el Colegio Seminario Diocesano de Duitama
-En general me gusta aprender cosas nuevas como tocar un instrumento
+En general me gusta aprender cosas nuevas como tocar un instrumento, actualmente toco saxofón
 <!--
 **recharged2005/Recharged2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
